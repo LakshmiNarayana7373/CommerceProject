@@ -1,0 +1,483 @@
+2022-12-24 20:05:39 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-24 20:05:39 INFO  Log:22 - user logging the commerce application
+2022-12-24 20:05:41 INFO  Log:22 - Login is success
+2022-12-24 20:05:41 INFO  Log:15 - =====================================Login Test complete TEST END=========================================
+2022-12-24 20:17:37 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-24 20:17:37 INFO  Log:22 -  User registerating the commerce application 
+2022-12-24 20:17:37 INFO  Log:22 - User enter the register all detials 
+2022-12-24 20:17:41 INFO  Log:22 - Register is success
+2022-12-24 20:17:41 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-24 20:18:31 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-24 20:18:31 INFO  Log:22 - user logging the commerce application
+2022-12-24 20:18:33 INFO  Log:22 - Login is success
+2022-12-24 20:18:33 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-24 20:18:34 INFO  Log:22 - Booking product
+2022-12-24 20:18:34 INFO  Log:22 - printing the title
+2022-12-24 20:18:34 INFO  Log:11 - =====================================Booking Test TEST START=========================================
+2022-12-24 20:18:34 INFO  Log:22 - Booking the products in commerce application
+2022-12-24 20:18:40 INFO  Log:15 - =====================================Booking Test TEST END=========================================
+2022-12-24 20:19:35 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-24 20:19:35 INFO  Log:22 - user logging the commerce application
+2022-12-24 20:19:37 INFO  Log:22 - Login is success
+2022-12-24 20:19:37 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-24 20:19:38 INFO  Log:22 - User checking the unit price
+2022-12-24 20:19:38 INFO  Log:22 - User checking the total price
+2022-12-24 20:19:38 ERROR Log:34 - total price was inncorrect
+2022-12-24 20:19:41 INFO  Log:22 - User entering the billing detials
+2022-12-24 20:19:42 INFO  Log:22 - User entering the shipping method
+2022-12-24 20:19:44 INFO  Log:15 - =====================================End of the commerce page TEST END=========================================
+2022-12-26 13:58:31 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-26 13:58:31 INFO  Log:22 -  User registerating the commerce application 
+2022-12-26 13:58:31 INFO  Log:22 - User enter the register all detials 
+2022-12-26 13:58:35 INFO  Log:22 - Register is success
+2022-12-26 13:58:35 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-26 13:58:59 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 13:58:59 INFO  Log:22 - user logging the commerce application
+2022-12-26 13:59:02 INFO  Log:22 - Login is success
+2022-12-26 13:59:02 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 13:59:03 INFO  Log:22 - Booking product
+2022-12-26 13:59:03 INFO  Log:22 - printing the title
+2022-12-26 13:59:03 INFO  Log:11 - =====================================Booking Test TEST START=========================================
+2022-12-26 13:59:03 INFO  Log:22 - Booking the products in commerce application
+2022-12-26 13:59:06 INFO  Log:15 - =====================================Booking Test TEST END=========================================
+2022-12-26 13:59:21 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 13:59:21 INFO  Log:22 - user logging the commerce application
+2022-12-26 13:59:23 INFO  Log:22 - Login is success
+2022-12-26 13:59:23 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 13:59:24 INFO  Log:22 - User checking the unit price
+2022-12-26 13:59:24 INFO  Log:22 - User checking the total price
+2022-12-26 13:59:24 ERROR Log:34 - total price was inncorrect
+2022-12-26 13:59:26 INFO  Log:22 - User entering the billing detials
+2022-12-26 13:59:27 INFO  Log:22 - User entering the shipping method
+2022-12-26 13:59:29 INFO  Log:15 - =====================================End of the commerce page TEST END=========================================
+2022-12-26 14:05:01 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-26 14:05:01 INFO  Log:22 -  User registerating the commerce application 
+2022-12-26 14:05:01 INFO  Log:22 - User enter the register all detials 
+2022-12-26 14:05:05 INFO  Log:22 - Register is success
+2022-12-26 14:05:05 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-26 16:12:56 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 16:12:56 INFO  Log:22 - user logging the commerce application
+2022-12-26 16:12:57 INFO  Log:22 - Login is success
+2022-12-26 16:12:57 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 16:13:00 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 16:13:00 INFO  Log:22 - user logging the commerce application
+2022-12-26 16:13:01 INFO  Log:22 - Login is success
+2022-12-26 16:13:01 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 16:17:06 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-26 16:17:06 INFO  Log:22 -  User registerating the commerce application 
+2022-12-26 16:17:06 INFO  Log:22 - User enter the register all detials 
+2022-12-26 16:17:10 INFO  Log:22 - Register is success
+2022-12-26 16:17:10 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-26 16:19:07 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-26 16:19:07 INFO  Log:22 -  User registerating the commerce application 
+2022-12-26 16:19:07 INFO  Log:22 - User enter the register all detials 
+2022-12-26 16:19:09 INFO  Log:22 - Register is success
+2022-12-26 16:19:09 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-26 16:19:22 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 16:19:22 INFO  Log:22 - user logging the commerce application
+2022-12-26 16:19:24 INFO  Log:22 - Login is success
+2022-12-26 16:19:24 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 16:19:36 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 16:19:36 INFO  Log:22 - user logging the commerce application
+2022-12-26 16:19:37 INFO  Log:22 - Login is success
+2022-12-26 16:19:37 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 16:24:35 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 16:24:35 INFO  Log:22 - user logging the commerce application
+2022-12-26 16:24:37 INFO  Log:22 - Login is success
+2022-12-26 16:24:37 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 16:24:39 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 16:24:39 INFO  Log:22 - user logging the commerce application
+2022-12-26 16:24:40 INFO  Log:22 - Login is success
+2022-12-26 16:24:40 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 16:28:31 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 16:28:31 INFO  Log:22 - user logging the commerce application
+2022-12-26 16:28:35 INFO  Log:22 - Login is success
+2022-12-26 16:28:35 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 16:52:37 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-26 16:52:37 INFO  Log:22 -  User registerating the commerce application 
+2022-12-26 16:52:37 INFO  Log:22 - User enter the register all detials 
+2022-12-26 16:52:41 INFO  Log:22 - Register is success
+2022-12-26 16:52:41 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-26 16:53:10 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-26 16:53:10 INFO  Log:22 -  User registerating the commerce application 
+2022-12-26 16:53:10 INFO  Log:22 - User enter the register all detials 
+2022-12-26 16:53:13 INFO  Log:22 - Register is success
+2022-12-26 16:53:13 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-26 16:54:11 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-26 16:54:11 INFO  Log:22 -  User registerating the commerce application 
+2022-12-26 16:54:11 INFO  Log:22 - User enter the register all detials 
+2022-12-26 16:54:15 INFO  Log:22 - Register is success
+2022-12-26 16:54:15 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-26 16:54:34 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-26 16:54:34 INFO  Log:22 -  User registerating the commerce application 
+2022-12-26 16:54:34 INFO  Log:22 - User enter the register all detials 
+2022-12-26 16:54:38 INFO  Log:22 - Register is success
+2022-12-26 16:54:38 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-26 16:54:56 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-26 16:54:56 INFO  Log:22 -  User registerating the commerce application 
+2022-12-26 16:54:56 INFO  Log:22 - User enter the register all detials 
+2022-12-26 16:55:01 INFO  Log:22 - Register is success
+2022-12-26 16:55:01 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-26 17:09:51 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-26 17:09:51 INFO  Log:22 -  User registerating the commerce application 
+2022-12-26 17:09:51 INFO  Log:22 - User enter the register all detials 
+2022-12-26 17:09:56 INFO  Log:22 - Register is success
+2022-12-26 17:09:56 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-26 17:10:01 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 17:10:01 INFO  Log:22 - user logging the commerce application
+2022-12-26 17:10:03 INFO  Log:22 - Login is success
+2022-12-26 17:10:03 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 17:10:07 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 17:10:07 INFO  Log:22 - user logging the commerce application
+2022-12-26 17:10:11 INFO  Log:22 - Login is success
+2022-12-26 17:10:11 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 17:10:13 INFO  Log:22 - Booking product
+2022-12-26 17:10:13 INFO  Log:22 - printing the title
+2022-12-26 17:10:14 INFO  Log:11 - =====================================Booking Test TEST START=========================================
+2022-12-26 17:10:14 INFO  Log:22 - Booking the products in commerce application
+2022-12-26 17:10:18 INFO  Log:15 - =====================================Booking Test TEST END=========================================
+2022-12-26 17:11:23 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-26 17:11:23 INFO  Log:22 -  User registerating the commerce application 
+2022-12-26 17:11:23 INFO  Log:22 - User enter the register all detials 
+2022-12-26 17:11:27 INFO  Log:22 - Register is success
+2022-12-26 17:11:27 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-26 17:11:32 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 17:11:32 INFO  Log:22 - user logging the commerce application
+2022-12-26 17:11:34 INFO  Log:22 - Login is success
+2022-12-26 17:11:34 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 17:11:39 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 17:11:39 INFO  Log:22 - user logging the commerce application
+2022-12-26 17:11:42 INFO  Log:22 - Login is success
+2022-12-26 17:11:42 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 17:11:43 INFO  Log:22 - Booking product
+2022-12-26 17:11:43 INFO  Log:22 - printing the title
+2022-12-26 17:11:44 INFO  Log:11 - =====================================Booking Test TEST START=========================================
+2022-12-26 17:11:44 INFO  Log:22 - Booking the products in commerce application
+2022-12-26 17:11:54 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 17:11:54 INFO  Log:22 - user logging the commerce application
+2022-12-26 17:11:57 INFO  Log:22 - Login is success
+2022-12-26 17:11:57 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 17:11:59 INFO  Log:22 - User checking the unit price
+2022-12-26 17:11:59 INFO  Log:22 - User checking the total price
+2022-12-26 17:11:59 ERROR Log:34 - total price was inncorrect
+2022-12-26 17:12:03 INFO  Log:22 - User entering the billing detials
+2022-12-26 17:12:04 INFO  Log:22 - User entering the shipping method
+2022-12-26 17:12:07 INFO  Log:15 - =====================================End of the commerce page TEST END=========================================
+2022-12-26 17:46:39 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-26 17:46:39 INFO  Log:22 -  User registerating the commerce application 
+2022-12-26 17:46:39 INFO  Log:22 - User enter the register all detials 
+2022-12-26 17:46:43 INFO  Log:22 - Register is success
+2022-12-26 17:46:43 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-26 17:46:49 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 17:46:49 INFO  Log:22 - user logging the commerce application
+2022-12-26 17:46:52 INFO  Log:22 - Login is success
+2022-12-26 17:46:52 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 17:46:57 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 17:46:57 INFO  Log:22 - user logging the commerce application
+2022-12-26 17:47:01 INFO  Log:22 - Login is success
+2022-12-26 17:47:01 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 17:47:02 INFO  Log:22 - Booking product
+2022-12-26 17:47:02 INFO  Log:22 - printing the title
+2022-12-26 17:47:03 INFO  Log:11 - =====================================Booking Test TEST START=========================================
+2022-12-26 17:47:03 INFO  Log:22 - Booking the products in commerce application
+2022-12-26 17:47:07 INFO  Log:15 - =====================================Booking Test TEST END=========================================
+2022-12-26 17:47:12 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 17:47:12 INFO  Log:22 - user logging the commerce application
+2022-12-26 17:47:15 INFO  Log:22 - Login is success
+2022-12-26 17:47:15 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 17:49:27 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-26 17:49:27 INFO  Log:22 -  User registerating the commerce application 
+2022-12-26 17:49:27 INFO  Log:22 - User enter the register all detials 
+2022-12-26 17:49:31 INFO  Log:22 - Register is success
+2022-12-26 17:49:31 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-26 17:49:35 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 17:49:35 INFO  Log:22 - user logging the commerce application
+2022-12-26 17:49:39 INFO  Log:22 - Login is success
+2022-12-26 17:49:39 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 17:49:44 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 17:49:44 INFO  Log:22 - user logging the commerce application
+2022-12-26 17:49:48 INFO  Log:22 - Login is success
+2022-12-26 17:49:48 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 17:49:50 INFO  Log:22 - Booking product
+2022-12-26 17:49:50 INFO  Log:22 - printing the title
+2022-12-26 17:49:51 INFO  Log:11 - =====================================Booking Test TEST START=========================================
+2022-12-26 17:49:51 INFO  Log:22 - Booking the products in commerce application
+2022-12-26 17:49:54 INFO  Log:15 - =====================================Booking Test TEST END=========================================
+2022-12-26 17:49:59 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 17:49:59 INFO  Log:22 - user logging the commerce application
+2022-12-26 17:50:03 INFO  Log:22 - Login is success
+2022-12-26 17:50:03 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 17:51:45 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-26 17:51:45 INFO  Log:22 -  User registerating the commerce application 
+2022-12-26 17:51:45 INFO  Log:22 - User enter the register all detials 
+2022-12-26 17:51:48 INFO  Log:22 - Register is success
+2022-12-26 17:51:48 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-26 17:51:53 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 17:51:53 INFO  Log:22 - user logging the commerce application
+2022-12-26 17:51:55 INFO  Log:22 - Login is success
+2022-12-26 17:51:55 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 17:52:00 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 17:52:00 INFO  Log:22 - user logging the commerce application
+2022-12-26 17:52:03 INFO  Log:22 - Login is success
+2022-12-26 17:52:03 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 17:52:06 INFO  Log:22 - Booking product
+2022-12-26 17:52:06 INFO  Log:22 - printing the title
+2022-12-26 17:52:07 INFO  Log:11 - =====================================Booking Test TEST START=========================================
+2022-12-26 17:52:07 INFO  Log:22 - Booking the products in commerce application
+2022-12-26 17:52:11 INFO  Log:15 - =====================================Booking Test TEST END=========================================
+2022-12-26 17:52:17 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 17:52:17 INFO  Log:22 - user logging the commerce application
+2022-12-26 17:52:20 INFO  Log:22 - Login is success
+2022-12-26 17:52:20 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 17:52:22 INFO  Log:22 - User checking the unit price
+2022-12-26 17:52:22 INFO  Log:22 - User checking the total price
+2022-12-26 17:52:22 ERROR Log:34 - total price was inncorrect
+2022-12-26 17:52:26 INFO  Log:22 - User entering the billing detials
+2022-12-26 17:52:27 INFO  Log:22 - User entering the shipping method
+2022-12-26 17:52:29 INFO  Log:15 - =====================================End of the commerce page TEST END=========================================
+2022-12-26 18:07:31 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 18:07:31 INFO  Log:22 - user logging the commerce application
+2022-12-26 18:07:52 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 18:07:52 INFO  Log:22 - user logging the commerce application
+2022-12-26 18:07:55 INFO  Log:22 - Login is success
+2022-12-26 18:07:55 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 18:14:36 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 18:14:36 INFO  Log:22 - user logging the commerce application
+2022-12-26 18:14:39 INFO  Log:22 - Login is success
+2022-12-26 18:14:39 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 18:15:55 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 18:15:55 INFO  Log:22 - user logging the commerce application
+2022-12-26 18:15:58 INFO  Log:22 - Login is success
+2022-12-26 18:15:58 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 18:16:04 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 18:16:04 INFO  Log:22 - user logging the commerce application
+2022-12-26 18:16:07 INFO  Log:22 - Login is success
+2022-12-26 18:16:07 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 18:26:21 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 18:26:21 INFO  Log:22 - user logging the commerce application
+2022-12-26 18:26:21 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 18:26:21 INFO  Log:22 - user logging the commerce application
+2022-12-26 18:26:24 INFO  Log:22 - Login is success
+2022-12-26 18:26:24 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 18:26:24 INFO  Log:22 - Login is success
+2022-12-26 18:26:24 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 18:29:38 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 18:29:38 INFO  Log:22 - user logging the commerce application
+2022-12-26 18:29:39 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 18:29:39 INFO  Log:22 - user logging the commerce application
+2022-12-26 18:29:41 INFO  Log:22 - Login is success
+2022-12-26 18:29:41 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 18:29:42 INFO  Log:22 - Login is success
+2022-12-26 18:29:42 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 18:30:33 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 18:30:33 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 18:30:33 INFO  Log:22 - user logging the commerce application
+2022-12-26 18:30:33 INFO  Log:22 - user logging the commerce application
+2022-12-26 18:30:36 INFO  Log:22 - Login is success
+2022-12-26 18:30:36 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 18:30:36 INFO  Log:22 - Login is success
+2022-12-26 18:30:36 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 18:31:58 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 18:31:58 INFO  Log:22 - user logging the commerce application
+2022-12-26 18:31:58 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-26 18:31:58 INFO  Log:22 - user logging the commerce application
+2022-12-26 18:32:01 INFO  Log:22 - Login is success
+2022-12-26 18:32:01 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-26 18:32:01 INFO  Log:22 - Login is success
+2022-12-26 18:32:01 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-27 18:21:21 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-27 18:21:21 INFO  Log:22 -  User registerating the commerce application 
+2022-12-27 18:21:21 INFO  Log:22 - User enter the register all detials 
+2022-12-27 18:21:25 INFO  Log:22 - Register is success
+2022-12-27 18:21:25 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-27 18:21:29 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-27 18:21:29 INFO  Log:22 - user logging the commerce application
+2022-12-27 18:21:32 INFO  Log:22 - Login is success
+2022-12-27 18:21:32 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-27 18:21:38 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-27 18:21:38 INFO  Log:22 - user logging the commerce application
+2022-12-27 18:21:42 INFO  Log:22 - Login is success
+2022-12-27 18:21:42 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-27 18:21:43 INFO  Log:22 - Booking product
+2022-12-27 18:21:43 INFO  Log:22 - printing the title
+2022-12-27 18:21:44 INFO  Log:11 - =====================================Booking Test TEST START=========================================
+2022-12-27 18:21:44 INFO  Log:22 - Booking the products in commerce application
+2022-12-27 18:21:49 INFO  Log:15 - =====================================Booking Test TEST END=========================================
+2022-12-27 18:21:55 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-27 18:21:55 INFO  Log:22 - user logging the commerce application
+2022-12-27 18:21:58 INFO  Log:22 - Login is success
+2022-12-27 18:21:58 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-27 18:21:59 INFO  Log:22 - User checking the unit price
+2022-12-27 18:21:59 INFO  Log:22 - User checking the total price
+2022-12-27 18:21:59 ERROR Log:34 - total price was inncorrect
+2022-12-27 18:22:02 INFO  Log:22 - User entering the billing detials
+2022-12-27 18:22:03 INFO  Log:22 - User entering the shipping method
+2022-12-27 18:22:06 INFO  Log:15 - =====================================End of the commerce page TEST END=========================================
+2022-12-27 18:22:57 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-27 18:22:57 INFO  Log:22 - user logging the commerce application
+2022-12-27 18:22:59 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-27 18:22:59 INFO  Log:22 - user logging the commerce application
+2022-12-27 18:23:01 INFO  Log:22 - Login is success
+2022-12-27 18:23:01 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-27 18:23:02 INFO  Log:22 - Login is success
+2022-12-27 18:23:02 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-29 21:19:30 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2022-12-29 21:19:30 INFO  Log:22 -  User registerating the commerce application 
+2022-12-29 21:19:30 INFO  Log:22 - User enter the register all detials 
+2022-12-29 21:19:33 INFO  Log:22 - Register is success
+2022-12-29 21:19:33 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2022-12-29 21:19:36 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-29 21:19:36 INFO  Log:22 - user logging the commerce application
+2022-12-29 21:19:39 INFO  Log:22 - Login is success
+2022-12-29 21:19:39 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-29 21:19:43 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-29 21:19:43 INFO  Log:22 - user logging the commerce application
+2022-12-29 21:19:45 INFO  Log:22 - Login is success
+2022-12-29 21:19:45 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-29 21:19:46 INFO  Log:22 - Booking product
+2022-12-29 21:19:46 INFO  Log:22 - printing the title
+2022-12-29 21:19:47 INFO  Log:11 - =====================================Booking Test TEST START=========================================
+2022-12-29 21:19:47 INFO  Log:22 - Booking the products in commerce application
+2022-12-29 21:19:50 INFO  Log:15 - =====================================Booking Test TEST END=========================================
+2022-12-29 21:19:54 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2022-12-29 21:19:54 INFO  Log:22 - user logging the commerce application
+2022-12-29 21:19:56 INFO  Log:22 - Login is success
+2022-12-29 21:19:56 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2022-12-29 21:19:57 INFO  Log:22 - User checking the unit price
+2022-12-29 21:19:57 INFO  Log:22 - User checking the total price
+2022-12-29 21:19:57 ERROR Log:34 - total price was inncorrect
+2022-12-29 21:19:59 INFO  Log:22 - User entering the billing detials
+2022-12-29 21:20:00 INFO  Log:22 - User entering the shipping method
+2022-12-29 21:20:02 INFO  Log:15 - =====================================End of the commerce page TEST END=========================================
+2023-01-12 16:57:57 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2023-01-12 16:57:57 INFO  Log:22 -  User registerating the commerce application 
+2023-01-12 16:57:57 INFO  Log:22 - User enter the register all detials 
+2023-01-12 16:58:00 INFO  Log:22 - Register is success
+2023-01-12 16:58:00 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2023-01-12 16:58:04 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-12 16:58:04 INFO  Log:22 - user logging the commerce application
+2023-01-12 16:58:06 INFO  Log:22 - Login is success
+2023-01-12 16:58:06 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2023-01-12 16:58:10 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-12 16:58:10 INFO  Log:22 - user logging the commerce application
+2023-01-12 16:58:12 INFO  Log:22 - Login is success
+2023-01-12 16:58:12 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2023-01-12 16:58:14 INFO  Log:22 - Booking product
+2023-01-12 16:58:14 INFO  Log:22 - printing the title
+2023-01-12 16:58:14 INFO  Log:11 - =====================================Booking Test TEST START=========================================
+2023-01-12 16:58:14 INFO  Log:22 - Booking the products in commerce application
+2023-01-12 16:58:20 INFO  Log:15 - =====================================Booking Test TEST END=========================================
+2023-01-12 16:58:25 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-12 16:58:25 INFO  Log:22 - user logging the commerce application
+2023-01-12 16:58:27 INFO  Log:22 - Login is success
+2023-01-12 16:58:27 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2023-01-12 16:58:29 INFO  Log:22 - User checking the unit price
+2023-01-12 16:58:29 INFO  Log:22 - User checking the total price
+2023-01-12 16:58:29 ERROR Log:34 - total price was inncorrect
+2023-01-12 16:58:31 INFO  Log:22 - User entering the billing detials
+2023-01-12 16:58:32 INFO  Log:22 - User entering the shipping method
+2023-01-12 16:58:34 INFO  Log:15 - =====================================End of the commerce page TEST END=========================================
+2023-01-17 14:49:26 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2023-01-17 14:49:26 INFO  Log:22 -  User registerating the commerce application 
+2023-01-17 14:49:26 INFO  Log:22 - User enter the register all detials 
+2023-01-17 14:49:29 INFO  Log:22 - Register is success
+2023-01-17 14:49:29 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2023-01-17 14:49:33 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-17 14:49:33 INFO  Log:22 - user logging the commerce application
+2023-01-17 14:49:35 INFO  Log:22 - Login is success
+2023-01-17 14:49:35 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2023-01-17 14:49:39 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-17 14:49:39 INFO  Log:22 - user logging the commerce application
+2023-01-17 14:49:41 INFO  Log:22 - Login is success
+2023-01-17 14:49:41 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2023-01-17 14:49:42 INFO  Log:22 - Booking product
+2023-01-17 14:49:42 INFO  Log:22 - printing the title
+2023-01-17 14:49:42 INFO  Log:11 - =====================================Booking Test TEST START=========================================
+2023-01-17 14:49:42 INFO  Log:22 - Booking the products in commerce application
+2023-01-17 14:49:46 INFO  Log:15 - =====================================Booking Test TEST END=========================================
+2023-01-17 14:49:51 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-17 14:49:51 INFO  Log:22 - user logging the commerce application
+2023-01-17 14:49:53 INFO  Log:22 - Login is success
+2023-01-17 14:49:53 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2023-01-17 14:49:54 INFO  Log:22 - User checking the unit price
+2023-01-17 14:49:54 INFO  Log:22 - User checking the total price
+2023-01-17 14:49:54 ERROR Log:34 - total price was inncorrect
+2023-01-17 14:49:56 INFO  Log:22 - User entering the billing detials
+2023-01-17 14:49:56 INFO  Log:22 - User entering the shipping method
+2023-01-17 14:49:58 INFO  Log:15 - =====================================End of the commerce page TEST END=========================================
+2023-01-20 19:51:12 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2023-01-20 19:51:12 INFO  Log:22 -  User registerating the commerce application 
+2023-01-20 19:51:12 INFO  Log:22 - User enter the register all detials 
+2023-01-20 19:51:16 INFO  Log:22 - Register is success
+2023-01-20 19:51:16 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2023-01-20 19:51:23 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-20 19:51:23 INFO  Log:22 - user logging the commerce application
+2023-01-20 19:52:34 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-20 19:52:34 INFO  Log:22 - user logging the commerce application
+2023-01-20 19:53:03 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-20 19:53:03 INFO  Log:22 - user logging the commerce application
+2023-01-20 19:56:11 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2023-01-20 19:56:11 INFO  Log:22 -  User registerating the commerce application 
+2023-01-20 19:56:11 INFO  Log:22 - User enter the register all detials 
+2023-01-20 19:56:15 INFO  Log:22 - Register is success
+2023-01-20 19:56:15 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2023-01-20 19:56:21 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-20 19:56:21 INFO  Log:22 - user logging the commerce application
+2023-01-20 19:56:25 INFO  Log:22 - Login is success
+2023-01-20 19:56:25 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2023-01-20 19:56:29 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-20 19:56:29 INFO  Log:22 - user logging the commerce application
+2023-01-20 19:56:32 INFO  Log:22 - Login is success
+2023-01-20 19:56:32 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2023-01-20 19:56:34 INFO  Log:22 - Booking product
+2023-01-20 19:56:34 INFO  Log:22 - printing the title
+2023-01-20 19:56:34 INFO  Log:11 - =====================================Booking Test TEST START=========================================
+2023-01-20 19:56:34 INFO  Log:22 - Booking the products in commerce application
+2023-01-20 20:10:31 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2023-01-20 20:10:31 INFO  Log:22 -  User registerating the commerce application 
+2023-01-20 20:10:31 INFO  Log:22 - User enter the register all detials 
+2023-01-20 20:10:36 INFO  Log:22 - Register is success
+2023-01-20 20:10:36 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2023-01-20 20:10:42 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-20 20:10:42 INFO  Log:22 - user logging the commerce application
+2023-01-20 20:10:43 INFO  Log:22 - Login is success
+2023-01-20 20:10:43 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2023-01-20 20:10:48 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-20 20:10:48 INFO  Log:22 - user logging the commerce application
+2023-01-20 20:10:51 INFO  Log:22 - Login is success
+2023-01-20 20:10:51 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2023-01-20 20:10:53 INFO  Log:22 - Booking product
+2023-01-20 20:10:53 INFO  Log:22 - printing the title
+2023-01-20 20:10:54 INFO  Log:11 - =====================================Booking Test TEST START=========================================
+2023-01-20 20:10:54 INFO  Log:22 - Booking the products in commerce application
+2023-01-20 20:10:59 INFO  Log:15 - =====================================Booking Test TEST END=========================================
+2023-01-20 20:11:18 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-20 20:11:18 INFO  Log:22 - user logging the commerce application
+2023-01-20 20:11:19 INFO  Log:22 - Login is success
+2023-01-20 20:11:19 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2023-01-20 20:13:55 INFO  Log:11 - =====================================Registeration Test TEST START=========================================
+2023-01-20 20:13:55 INFO  Log:22 -  User registerating the commerce application 
+2023-01-20 20:13:55 INFO  Log:22 - User enter the register all detials 
+2023-01-20 20:14:00 INFO  Log:22 - Register is success
+2023-01-20 20:14:00 INFO  Log:15 - =====================================Registeration Test TEST END=========================================
+2023-01-20 20:14:06 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-20 20:14:06 INFO  Log:22 - user logging the commerce application
+2023-01-20 20:14:08 INFO  Log:22 - Login is success
+2023-01-20 20:14:08 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2023-01-20 20:14:13 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-20 20:14:13 INFO  Log:22 - user logging the commerce application
+2023-01-20 20:14:16 INFO  Log:22 - Login is success
+2023-01-20 20:14:16 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2023-01-20 20:14:18 INFO  Log:22 - Booking product
+2023-01-20 20:14:18 INFO  Log:22 - printing the title
+2023-01-20 20:14:18 INFO  Log:11 - =====================================Booking Test TEST START=========================================
+2023-01-20 20:14:18 INFO  Log:22 - Booking the products in commerce application
+2023-01-20 20:14:24 INFO  Log:15 - =====================================Booking Test TEST END=========================================
+2023-01-20 20:14:40 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-20 20:14:40 INFO  Log:22 - user logging the commerce application
+2023-01-20 20:14:43 INFO  Log:22 - Login is success
+2023-01-20 20:14:43 INFO  Log:15 - =====================================Login Test  TEST END=========================================
+2023-01-24 15:00:19 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2023-01-24 15:00:19 INFO  Log:22 - user logging the commerce application
+2023-01-24 15:00:21 INFO  Log:22 - Login is success
+2023-01-24 15:00:21 INFO  Log:15 - =====================================Login Test  TEST END=========================================
